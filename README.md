@@ -1,4 +1,4 @@
-## Payment Gateway APP
+## Buy Now Pay Later APP
 
 Demo Application Using Node.js and SQLite3
 
